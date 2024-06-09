@@ -1,2 +1,2 @@
 # Basic Calculator
-Basic calculator for do some mathematical operations 
+Basic calculator for doing some mathematical operations 
